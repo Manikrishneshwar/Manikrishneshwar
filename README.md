@@ -24,14 +24,15 @@
 ---
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/manikrishneshwar-sasidhar/)">
+  <a href="https://www.linkedin.com/in/manikrishneshwar-sasidhar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://www.chess.com/member/your-username](https://www.chess.com/member/manikrishneshwar)">
-  <img src="https://img.shields.io/badge/Chess.com-34A853?style=for-the-badge&logo=chess.com&logoColor=white" />
-</a>
 
+  <a href="https://www.chess.com/member/manikrishneshwar" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-34A853?style=for-the-badge&logo=chess.com&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
