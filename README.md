@@ -12,7 +12,7 @@
 - Interested in exploring various applications of AIML and data science in differnt branches
 - Enjoy working on Computer Vision and CUDA 
 - 📫 Reach me at: **manikrish2003@gmail.com**
-- 😄 Pronouns: They / don't know me son
+- 🏃‍♂️💪 Pronouns: They / don't know me son
 
 ---
 
