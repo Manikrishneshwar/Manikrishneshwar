@@ -47,7 +47,7 @@
 
 ---
 
-<p align="center">Ey sudeep, what you looking ra 👀</p>
+<p align="center">A man's gotta do what he's gotta scooby dooby do</p>
 
 
 <!--
