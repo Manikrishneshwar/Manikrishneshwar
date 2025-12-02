@@ -47,7 +47,7 @@
 
 ---
 
-<p align="center">A man's gotta do what he's gotta scooby dooby do</p>
+<p align="center">Turn left to go right.</p>
 
 
 <!--
